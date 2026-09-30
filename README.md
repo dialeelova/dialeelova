@@ -3,7 +3,5 @@
 I'm **Dia**, a computer science student, programmer and curious builder.
 
 I enjoy creating practical projects, working with data, and exploring **Python, AI, and machine learning**.
-
-<p style="color: #A9828A;">
-When I'm not programming, I'm usually learning something new, journaling, or puzzling.
-</p>
+ 
+When I'm not programming, I'm usually learning something new, journaling, or puzzling. (๑˃ᴗ˂)ﻭ ✦
