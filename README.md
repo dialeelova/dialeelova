@@ -2,6 +2,6 @@
 
 I'm **Dia**, a computer science student, programmer and curious builder.
 
-I enjoy creating practical projects, working with data, and exploring **Python, AI, and machine learning**.
+I enjoy creating practical projects, working with data, as well as building a cute mini apps in my free time.
  
 When I'm not programming, I'm usually learning something new, journaling, or puzzling. (๑˃ᴗ˂)ﻭ ✦
